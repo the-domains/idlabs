@@ -1,0 +1,28 @@
+name: IDLabs
+favicon: null
+layout_spectrum: 0.030753903090953827
+typography_spectrum: 0.5616058057639748
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6516134147532284
+  lightness: 0.7067521398421377
+  saturation: 0.7255078046582639
+  rhythmicContrast: 0.8581866538152099
+purpose: []
